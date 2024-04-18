@@ -1,5 +1,5 @@
 # Website-Loading-Time
-https://github.com/theaniketraj/Website-Loading-Time/blob/main/sample.png
+<img> src="https://github.com/theaniketraj/Website-Loading-Time/blob/main/sample.png" </img>
 <u> Time to load a Website. </u> ⌚
 <br>
 <br>
